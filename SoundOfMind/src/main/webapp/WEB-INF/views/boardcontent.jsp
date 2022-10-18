@@ -308,7 +308,7 @@ pageContext.setAttribute("replaceChar", "\n");
 		var coment = $('.'+index).text()
 		console.log(coment)
 		$.ajax({
-			url:"http://b439-34-135-93-236.ngrok.io/",
+			url:"http://f267-35-223-192-20.ngrok.io/coment",
 			data:{
 				'coment':coment
 			},
