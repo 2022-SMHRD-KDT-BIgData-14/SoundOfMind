@@ -51,5 +51,6 @@ KoBERT 모델과 다르게 BERT 모델은 CNN 모델과 결합해 하나의 통�
 
 
 # 11. 시연영상
+[![image ALT TEXT HERE](https://user-images.githubusercontent.com/106305465/197095706-a6b22c73-e335-4305-bef0-595720d15dfe.png)](https://www.youtube.com/watch?v=jgd0M3Bvd8c)
 # 12. 참고문헌
 ![image](https://user-images.githubusercontent.com/106305465/197089511-2ba837ea-adbc-4532-805f-9ada481e6b6c.png)
